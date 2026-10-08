@@ -1,28 +1,32 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=300&section=header&text=Sadew%20Upendra&fontSize=68&fontColor=ffffff&animation=fadeIn&desc=&descSize=22&descAlignVertical=235" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:0077b6&height=240&section=header&text=Sadew%20Upendra&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%C2%B7%20DevOps&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Sadew-Upendra">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad;Full+Stack+Developer;React+%26+SpringBoot+Developer;Cybersecurity+%26+AI+Explorer;DevOps+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;Full+Stack+Developer;React+%26+SpringBoot+Developer;Cybersecurity+%26+AI+Explorer;DevOps+Enthusiast">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sadew-upendra-b7472339a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sadewupendra2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sadew-Upendra"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.linkedin.com/in/sadew-upendra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sadewupendra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sadew-Upendra"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ About Me
-I'm a **Computer Science Undergraduate** at the University of Kelaniya and a **CMJD student** at IJSE. I am passionate about exploring the intersection of robust backend logic and modern frontend design. My journey is fueled by a deep curiosity for how scalable systems are built and secured from the ground up.
+## 👋 About Me
 
-- 🔭 **Currently Exploring:** The fundamentals of **Spring Boot** and the power of **React** for building interactive web apps.
-- 🧪 **Learning Path:** Deep-diving into **Cybersecurity** essentials, **AI** integration, and the world of **DevOps**.
-- ⚙️ **Focus:** Mastering **Clean Code** principles and understanding **Layered Architecture** (DAO/DTO) to build maintainable software.
-- 💬 **Let's Talk:** I love discussing Java, the future of AI, or any interesting problem that requires a creative solution.
+I'm a **BSc (Hons) Computer Science undergraduate** at the **University of Kelaniya** and a **CMJD student** at IJSE. I enjoy the space where solid backend engineering meets thoughtful frontend design, and I care about how systems are built, structured, and scaled from the ground up.
+
+```text
+🎓 Education      →  BSc (Hons) Computer Science @ University of Kelaniya
+💼 Focus          →  Full-Stack Engineering & Cloud Infrastructure
+🔭 Building       →  Next.js, Spring Boot & React Ecosystems
+🌱 Learning       →  Advanced DevOps, Cloud Infrastructure & AI Integration
+⚙️ Engineering    →  Clean code · Layered architecture (Controller → Service → DAO → Entity)
+```
 
 ---
 
@@ -33,25 +37,35 @@ I'm a **Computer Science Undergraduate** at the University of Kelaniya and a **C
     <tr>
       <td width="50%" align="center" valign="top">
         <p align="center"><strong>🎨 Frontend & UI</strong></p>
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js" alt="Frontend Skills" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" alt="Frontend Skills" />
       </td>
       <td width="50%" align="center" valign="top">
         <p align="center"><strong>⚙️ Backend & Logic</strong></p>
         <img src="https://skillicons.dev/icons?i=java,spring,nodejs,expressjs,py,cs" alt="Backend Skills" />
       </td>
     </tr>
-    <tr height="20px"></tr> <tr>
+    <tr height="20px"></tr>
+    <tr>
       <td width="50%" align="center" valign="top">
         <p align="center"><strong>☁️ Infrastructure & VC</strong></p>
         <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="Infrastructure Skills" />
       </td>
       <td width="50%" align="center" valign="top">
         <p align="center"><strong>💾 Databases & IDEs</strong></p>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,postman,vscode,idea" alt="Tool Skills" />
+        <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres,mongodb,postman,vscode,idea" alt="Tool Skills" />
       </td>
     </tr>
   </table>
 </div>
+
+<!--
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20TypeScript%20%7C%20Tailwind-0F172A?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot%20%7C%20Node.js%20%7C%20Python-1E293B?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20Linux%20%7C%20Git-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20Supabase%20%7C%20PostgreSQL%20%7C%20MongoDB-1E293B?style=for-the-badge&logo=MySQL&logoColor=white" />
+</p>
+-->
 
 ---
 
@@ -88,30 +102,45 @@ I'm a **Computer Science Undergraduate** at the University of Kelaniya and a **C
 
 ---
 
-### 📊 Ecosystem Metrics
+<!--
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sadew-Upendra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadew-Upendra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20TypeScript-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Java%20%7C%20Node.js-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20Linux-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+-->
+
+## 📊 Ecosystem Metrics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sadew-Upendra&show_icons=true&theme=react&hide_border=true&border_radius=12&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadew-Upendra&layout=compact&theme=react&hide_border=true&border_radius=12&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew-Upendra&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew-Upendra&theme=react&hide_border=true&border_radius=12" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: https://github.com/Sadew-Upendra
-- LinkedIn: https://www.linkedin.com/in/sadew-upendra-b7472339a/
-- Email: sadewupendra2005@gmail.com
-
----
+I'm happy to talk about **Java, Spring Boot, DevOps, cybersecurity, AI**, or any problem that needs a creative solution. If you have a freelance project or an opportunity, reach out.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadew-Upendra&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" />
+  <a href="https://www.linkedin.com/in/sadew-upendra">LinkedIn</a> ·
+  <a href="mailto:sadewupendra@gmail.com">Email</a> ·
+  <a href="https://github.com/Sadew-Upendra">GitHub</a>
 </p>
 
 <p align="center"><i>"The best way to predict the future is to code it."</i></p>
 
-⭐ *Always learning, always building.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sadew-Upendra&label=PROFILE%20VIEWS&color=0077b6&style=flat-square" />
+</p>
+
+<small>⭐ <i>Always learning, always building.</i></small>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:001f3f&height=100&section=footer" width="100%" />
+</p>
