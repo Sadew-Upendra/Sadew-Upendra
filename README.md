@@ -20,13 +20,11 @@
 
 I'm a **BSc (Hons) Computer Science undergraduate** at the **University of Kelaniya** and a **CMJD student** at IJSE. I enjoy the space where solid backend engineering meets thoughtful frontend design, and I care about how systems are built, structured, and scaled from the ground up.
 
-```text
-🎓 Education      →  BSc (Hons) Computer Science @ University of Kelaniya
+<pre align="left"><code>🎓 Education      →  BSc (Hons) Computer Science @ University of Kelaniya
 💼 Focus          →  Full-Stack Engineering & Cloud Infrastructure
 🔭 Building       →  Next.js, Spring Boot & React Ecosystems
 🌱 Learning       →  Advanced DevOps, Cloud Infrastructure & AI Integration
-⚙️ Engineering    →  Clean code · Layered architecture (Controller → Service → DAO → Entity)
-```
+⚙️ Engineering    →  Clean code · Layered architecture (Controller → Service → DAO → Entity)</code></pre>
 
 ---
 
